@@ -1,4 +1,4 @@
 ## Visual
 - [Eye trainer](https://www.eyetrainer.gg/)
-- [Eye trainer 2](https://blinkcamp.com/)
+- [Blink Camp](https://blinkcamp.com/)
 - 

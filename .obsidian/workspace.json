@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raze/Lotus/Attack.md",
+                "file": "Mechanical/Warmups/20 Minute Warmup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attack"
+              "title": "20 Minute Warmup"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Links"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,34 +191,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "346b20eb8d111829",
+  "active": "c111a0a3250ab549",
   "lastOpenFiles": [
-    "README.md",
     "Links.md",
-    "Raze/Lotus/Attack.md",
-    "Untitled",
-    "Clove/Split/Attack.md",
-    "Raze/Lotus/Defense.md",
-    "Raze/Lotus",
-    "Raze/Images",
-    "Raze",
-    "Clove/Split/Defense.md",
-    "Clove/Images/Pasted image 20250116193411.png",
-    "Clove/Images/Pasted image 20250116192857.png",
-    "Clove/Images/Pasted image 20250116184757.png",
-    "Clove/Images/Pasted image 20250116191443.png",
-    "Clove/Images/Pasted image 20250116191121.png",
-    "Clove/Images/Pasted image 20250116190646.png",
-    "Clove/Images/Pasted image 20250116190028.png",
-    "Clove/Images/Pasted image 20250116185454.png",
-    "Clove/Images/Pasted image 20250116185344.png",
-    "Clove/Images/Pasted image 20250115211237.png",
+    "README.md",
+    "Mechanical/Warmups/20 Minute Warmup.md",
+    "Mechanical/Warmups",
+    "Mechanical",
+    "Agent Plabooks",
+    "Agent Plabooks/Raze/Lotus/Attack.md",
+    "Agent Plabooks/Clove/Split/Attack.md",
+    "Agent Plabooks/Raze/Lotus/Defense.md",
+    "Agent Plabooks/Raze/Lotus",
+    "Agent Plabooks/Raze/Images",
+    "Agent Plabooks/Raze",
+    "Agent Plabooks/Clove/Split/Defense.md",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116193411.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116192857.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116184757.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116191443.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116191121.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116190646.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116190028.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116185454.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250116185344.png",
+    "Agent Plabooks/Clove/Images/Pasted image 20250115211237.png",
     "2025-01-15.md",
-    "Clove/Images",
-    "Clove/Split",
+    "Agent Plabooks/Clove/Images",
+    "Agent Plabooks/Clove/Split",
     "3_Valorant Playbook.md",
     "2_Agents",
-    "Clove/Fracture",
-    "Clove"
+    "Clove/Fracture"
   ]
 }
