@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "README"
             }
           }
         ],
@@ -194,8 +194,9 @@
   },
   "active": "346b20eb8d111829",
   "lastOpenFiles": [
-    "Raze/Lotus/Attack.md",
+    "README.md",
     "Links.md",
+    "Raze/Lotus/Attack.md",
     "Untitled",
     "Clove/Split/Attack.md",
     "Raze/Lotus/Defense.md",
